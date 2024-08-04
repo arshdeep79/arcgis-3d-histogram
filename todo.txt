@@ -1,0 +1,9 @@
+show 3d bars in a group with color temp
+- show 3d bars
+- generate a br with random details
+- - color random
+    height within a range
+
+- in groups area
+    define a radius and randomly plot point on their
+    - generate function that create a point withing a radius
